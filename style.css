@@ -1,0 +1,50 @@
+*
+{
+  background-color:white;
+}
+h1{
+  color: rgb(3, 78, 13);
+  font-family: cursive;
+  text-align: center;
+}
+
+.whatami{
+  color: rgb(79, 82, 79);
+  text-align: center;
+}
+nav{
+  text-align:center;
+  
+  
+}
+li{
+
+display: inline-block;
+text-decoration:none;
+
+padding: 10px;
+}
+#div2{
+  border: 1px solid  white;
+  text-align: center;
+}
+#about{
+  display: flex;
+}
+footer{
+  border: 1px solid;
+  text-align: center;
+  background-color: gray;
+}
+h2{
+  text-align: center;
+  color: darkslategrey;
+}
+#skills
+{
+  text-align:left;
+
+}
+#p{
+  padding-left: 250px;
+}
